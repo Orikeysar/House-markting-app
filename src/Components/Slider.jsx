@@ -59,7 +59,7 @@ console.log(listings)
                 style={{
                   background: `url(${data.imageUrl[0]}) center no-repeat`,
                   backgroundSize: 'cover',
-                  height: '200px'
+                  height: '400px'
                 }}
                 className='swiperSlideDiv'
               >

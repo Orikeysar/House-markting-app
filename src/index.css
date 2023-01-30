@@ -313,7 +313,7 @@ button {
 }
 
 .exploreCategoryHeading {
-  margin-top: 3rem;
+  margin-top: 1.2rem;
 }
 
 .swiper-container {
@@ -822,7 +822,7 @@ button {
 
 .swiperSlideText{
 
-  position: relative;
-  top:0
+ 
+  top:auto
   
 }
